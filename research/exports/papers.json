@@ -1,0 +1,753 @@
+{
+  "repo": "wish",
+  "exported_at": "2026-03-10T02:19:27.740032",
+  "count": 25,
+  "papers": [
+    {
+      "id": "https://openalex.org/W4288359814",
+      "doi": "10.1145/3290605.3300854",
+      "title": "Friend, Collaborator, Student, Manager",
+      "authors": [
+        "Matthew Guzdial",
+        "Nicholas Liao",
+        "Jonathan H. Chen",
+        "Shaoyu Chen",
+        "Shukan Shah",
+        "Vishwa Shah"
+      ],
+      "year": 2019,
+      "venue": null,
+      "abstract": "Machine learning advances have afforded an increase in algorithms capable of creating art, music, stories, games, and more. However, it is not yet well-understood how machine might best collaborate with people to support creative expression. To investigate practicing designers perceive the role AI process, we developed a game level design tool for Super Mario Bros.-style games built-in designer. In this paper discuss our Morai Maker intelligent through two mixed-methods studies total over one-hundred participants. Our findings are as follows: (1) vary their desired interactions with, of, AI, (2) prompted alter practices, (3) perceived having potential value practice, varying based on AI.",
+      "cited_by_count": 102,
+      "is_oa": true,
+      "url": "https://openalex.org/W4288359814",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3290605.3300854",
+      "concepts": [
+        "Computer science",
+        "Style (visual arts)",
+        "Process (computing)",
+        "Game design",
+        "Value (mathematics)",
+        "Human–computer interaction"
+      ],
+      "topic": "Artificial Intelligence in Games",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.087751",
+      "updated_at": "2026-03-10T02:19:27.690102"
+    },
+    {
+      "id": "https://openalex.org/W3103866493",
+      "doi": "10.3390/ijerph17218276",
+      "title": "How does a (Smart) Age-Friendly Ecosystem Look in a Post-Pandemic Society?",
+      "authors": [
+        "Hannah R. Marston",
+        "Linda Shore",
+        "P.J. White"
+      ],
+      "year": 2020,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "abstract": "COVID-19 has impacted not only the health of citizens, but also various factors that make up our society, living environments, and ecosystems. This pandemic shown future will need to be agile flexible adapt changes in needs societal populations. Digital technology played an integral role during COVID-19, assisting sectors community, demonstrating smart cities can provide opportunities respond many challenges. In decades ahead, rise aging populations one these challenges, which requirements between demographic cohorts vary greatly. Although we create age-friendly ecosystems meet needs, still does feature WHO eight domains city. paper extends upon Marston van Hoof's 'Smart Age-friendly Ecosystem' (SAfE) framework, explores how digital technology, design hacking, research approaches used understand a ecosystem post-pandemic society. By exploring series case studies using real-life scenarios from standpoint propose 'Concept Smart Ecologies (CASE)' framework. We insight into myriad contemporary multi-disciplinary research, are capable initiate discussions bring actors together with positive impact on planning development The strengths limitations this framework outlined, advantages evident opportunity for towns, regions/counties, provinces, states take approach work adopting implement improvements greater benefits residents citizens.",
+      "cited_by_count": 88,
+      "is_oa": true,
+      "url": "https://openalex.org/W3103866493",
+      "pdf_url": "https://www.mdpi.com/1660-4601/17/21/8276/pdf?version=1604931341",
+      "concepts": [
+        "Agile software development",
+        "Pandemic",
+        "Smart city",
+        "Environmentally friendly",
+        "Business",
+        "Environmental resource management"
+      ],
+      "topic": "Technology Use by Older Adults",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.089641",
+      "updated_at": "2026-03-10T02:19:27.693520"
+    },
+    {
+      "id": "https://openalex.org/W4283821363",
+      "doi": "10.2903/j.efsa.2022.7325",
+      "title": "Safety of frozen and freeze‐dried formulations of the lesser mealworm (Alphitobius diaperinus larva) as a Novel food pursuant to Regulation (EU) 2015/2283",
+      "authors": [
+        "Dominique Turck",
+        "Torsten Bohn",
+        "Jacqueline Castenmiller",
+        "Stefaan De Henauw",
+        "Karen Ildico Hirsch‐Ernst",
+        "Alexandre Maciuk"
+      ],
+      "year": 2022,
+      "venue": "EFSA Journal",
+      "abstract": "Following a request from the European Commission, EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion frozen dried formulations whole lesser mealworm (<i>Alphitobius diaperinus</i> larva) as novel food (NF) pursuant Regulation (EU) 2015/2283. The term refers larval form of insect species <i>Alphitobius diaperinus</i>. NF comprises freeze-dried or in paste powder. Apart water (whole, paste), main components are crude protein fat, besides smaller amounts digestible carbohydrates fibre (chitin). notes that levels contaminants depend concentration such substances feed. furthermore true overestimated when using nitrogen-to-protein conversion factor 6.25, due presence non-protein nitrogen chitin. applicant proposed use added ingredient various products cereal bars, pasta, meat imitates bakery products. target population is general population. Additionally, supplement adults. that, considering will not be sole source dietary protein, composition conditions use, consumption nutritionally disadvantageous. submitted subchronic 90-day toxicity study with testing material did raise safety concerns. considers may induce primary sensitisation allergic reactions proteins cause subjects allergy crustaceans dust mites. allergens feed end up NF. Allergenicity aside, concludes safe under uses levels.",
+      "cited_by_count": 80,
+      "is_oa": true,
+      "url": "https://openalex.org/W4283821363",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.2903/j.efsa.2022.7325",
+      "concepts": [
+        "Mealworm",
+        "Food science",
+        "Ingredient",
+        "Population",
+        "Larva",
+        "Biology"
+      ],
+      "topic": "Insect Utilization and Effects",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.091299",
+      "updated_at": "2026-03-10T02:19:27.695278"
+    },
+    {
+      "id": "https://openalex.org/W1602369286",
+      "doi": "10.55599/ejssm.v7i6.42",
+      "title": "Tropical Cyclone Tornadoes: A Review of Knowledge in Research and Prediction",
+      "authors": [
+        "Roger Edwards"
+      ],
+      "year": 2021,
+      "venue": "E-Journal of Severe Storms Meteorology",
+      "abstract": "The scientific documentation and investigation of tropical cyclone (TC) tornadoes has spanned portions ten decades, but been missing a documentary overview topical knowledge accumulated to any given point in that time span. This review article summarizes the evolution TC tornado-related literature from perspectives crucial historic tornadoes, climatology, distribution patterns, applied research into their environments, remote environmental observations, forecasting practices, numerical simulations at various scales. Discussion future tornado prediction includes several testable hypotheses, along with potentially beneficial tools soon be available operational forecasters.",
+      "cited_by_count": 73,
+      "is_oa": true,
+      "url": "https://openalex.org/W1602369286",
+      "pdf_url": "https://ejssm.com/ojs/index.php/site/article/download/42/41",
+      "concepts": [
+        "Tornado",
+        "Tropical cyclone",
+        "Documentation",
+        "Meteorology",
+        "Cyclone (programming language)",
+        "Environmental science"
+      ],
+      "topic": "Tropical and Extratropical Cyclones Research",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.093171",
+      "updated_at": "2026-03-10T02:19:27.697267"
+    },
+    {
+      "id": "https://openalex.org/W3047622531",
+      "doi": "10.1063/5.0015971",
+      "title": "A practical guide for crystal growth of van der Waals layered materials",
+      "authors": [
+        "Andrew F. May",
+        "Jiaqiang Yan",
+        "Michael A. McGuire"
+      ],
+      "year": 2020,
+      "venue": "Journal of Applied Physics",
+      "abstract": "This Tutorial provides an overview of the techniques that are most commonly utilized to grow bulk van der Waals crystals. The materials discussed were selected highlight various challenges often encountered during crystal growth. In relatively equal parts, text covers melt-based techniques, vapor transport growths, and characterization quality with emphasis on structural chemical homogeneities. Pertinent details given regarding growth many specific compounds, examples mostly drawn from our own research, effort is made cases where growths offer a particular lesson or conditions have significant impact crystal’s physical properties. A primary goal motivate more researchers crystals by providing general descriptions considerations for different equipment while sharing some lessons learned best practices layered not written solely aspiring growers, however, because any researcher who collaborates grower can benefit having greater understanding appreciation processes development.",
+      "cited_by_count": 70,
+      "is_oa": true,
+      "url": "https://openalex.org/W3047622531",
+      "pdf_url": "https://aip.scitation.org/doi/pdf/10.1063/5.0015971",
+      "concepts": [
+        "Characterization (materials science)",
+        "van der Waals force",
+        "Crystal (programming language)",
+        "Crystal growth",
+        "Quality (philosophy)",
+        "Nanotechnology"
+      ],
+      "topic": "2D Materials and Applications",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.095012",
+      "updated_at": "2026-03-10T02:19:27.699696"
+    },
+    {
+      "id": "https://openalex.org/W4281786305",
+      "doi": "10.1007/s13164-022-00644-y",
+      "title": "Expecting some action: Predictive Processing and the construction of conscious experience",
+      "authors": [
+        "Kathryn Nave",
+        "George Deane",
+        "Mark Miller",
+        "Andy Clark"
+      ],
+      "year": 2022,
+      "venue": "Review of Philosophy and Psychology",
+      "abstract": null,
+      "cited_by_count": 45,
+      "is_oa": true,
+      "url": "https://openalex.org/W4281786305",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13164-022-00644-y.pdf",
+      "concepts": [
+        "Action (physics)",
+        "Philosophy of mind",
+        "Perception",
+        "Creatures",
+        "Psychology",
+        "Nothing"
+      ],
+      "topic": "Embodied and Extended Cognition",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.097772",
+      "updated_at": "2026-03-10T02:19:27.701776"
+    },
+    {
+      "id": "https://openalex.org/W2981180296",
+      "doi": "10.1111/hex.12972",
+      "title": "Laying the groundwork: Building relationships for public and patient involvement in pre‐clinical paediatric research",
+      "authors": [
+        "Wendy Costello",
+        "Emma Dorris"
+      ],
+      "year": 2019,
+      "venue": "Health Expectations",
+      "abstract": "Dedicating resources to building relationships and skills necessary for co-operative research involvement can overcome some of the barriers public in pre-clinical laboratory-based research.",
+      "cited_by_count": 33,
+      "is_oa": true,
+      "url": "https://openalex.org/W2981180296",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.12972",
+      "concepts": [
+        "Context (archaeology)",
+        "Public involvement",
+        "Medicine",
+        "Public health",
+        "Medical education",
+        "Public relations"
+      ],
+      "topic": "Mental Health and Patient Involvement",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.099845",
+      "updated_at": "2026-03-10T02:19:27.703484"
+    },
+    {
+      "id": "https://openalex.org/W2950045700",
+      "doi": "10.3390/educsci9020144",
+      "title": "Reflections of Preservice Teachers of Color: Implications for the Teacher Demographic Diversity Gap",
+      "authors": [
+        "Tara J. Plachowski"
+      ],
+      "year": 2019,
+      "venue": "Education Sciences",
+      "abstract": "The reproduction of white supremacist culture in schools continues to marginalize Students Color a variety implicit and explicit ways. A diverse teacher workforce not only helps disrupt the direct effects racism on Color, but also prepares all students for successful democratic participation global society. This article uses portion qualitative interview data from undergraduate Preservice Teachers dissertation study completed within College Education at minority-serving public university southwestern United States. adds literature complex issues that have resulted our nation’s demographic diversity gap. findings these reveal meaningful teacher–student encounters eight experienced during their K12 education how experiences affected drive become teacher. confirm resolving gap is more than simple recruitment problem. Practitioners, scholars, policy-makers must attend climate schools, particular racialized if we hope begin address complexity this issue. All names places are pseudonyms. Participants chose pseudonym, identifying categories listed directly they identified themselves interviews.",
+      "cited_by_count": 28,
+      "is_oa": true,
+      "url": "https://openalex.org/W2950045700",
+      "pdf_url": "https://www.mdpi.com/2227-7102/9/2/144/pdf?version=1560841308",
+      "concepts": [
+        "Diversity (politics)",
+        "Teacher education",
+        "Workforce",
+        "Variety (cybernetics)",
+        "Cultural diversity",
+        "Psychology"
+      ],
+      "topic": "Critical Race Theory in Education",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.102107",
+      "updated_at": "2026-03-10T02:19:27.704847"
+    },
+    {
+      "id": "https://openalex.org/W3158845685",
+      "doi": "10.1007/s10493-021-00612-8",
+      "title": "Feeding design in free-living mesostigmatid chelicerae (Acari: Anactinotrichida)",
+      "authors": [
+        "Clive Bowman"
+      ],
+      "year": 2021,
+      "venue": "Experimental and Applied Acarology",
+      "abstract": null,
+      "cited_by_count": 18,
+      "is_oa": true,
+      "url": "https://openalex.org/W3158845685",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10493-021-00612-8.pdf",
+      "concepts": [
+        "Biology",
+        "Arthropod mouthparts",
+        "Animal ecology",
+        "Predation",
+        "Ecology",
+        "Zoology"
+      ],
+      "topic": "Study of Mite Species",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.104456",
+      "updated_at": "2026-03-10T02:19:27.706268"
+    },
+    {
+      "id": "https://openalex.org/W4214860063",
+      "doi": "10.1145/3507659",
+      "title": "What's in an ALT Tag? Exploring Caption Content Priorities through Collaborative Captioning",
+      "authors": [
+        "Annika Muehlbradt",
+        "Shaun K. Kane"
+      ],
+      "year": 2022,
+      "venue": "ACM Transactions on Accessible Computing",
+      "abstract": "Evaluating the quality of accessible image captions with human raters is difficult, as it may be difficult for a visually impaired user to know how comprehensive caption is, whereas sighted assistant not what information will need from caption. To explore captioners and consumers assess content, we conducted series collaborative captioning sessions in which six pairs, consisting blind person their partner, worked together discuss, create, evaluate captions. By making task, were able observe strategies, elicit questions answers about captions, users’ preferences. Our findings provide insight process creating good serve case study cross-ability collaboration between people.",
+      "cited_by_count": 18,
+      "is_oa": true,
+      "url": "https://openalex.org/W4214860063",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3507659",
+      "concepts": [
+        "Closed captioning",
+        "Computer science",
+        "Screen reader",
+        "Task (project management)",
+        "Quality (philosophy)",
+        "Process (computing)"
+      ],
+      "topic": "Digital Accessibility for Disabilities",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.106413",
+      "updated_at": "2026-03-10T02:19:27.708076"
+    },
+    {
+      "id": "https://openalex.org/W3160391682",
+      "doi": "10.1145/3411764.3445585",
+      "title": "When the Tab Comes Due:Challenges in the Cost Structure of Browser Tab Usage",
+      "authors": [
+        "Joseph Chee Chang",
+        "Nathan Hahn",
+        "Yongsung Kim",
+        "Julina Coupland",
+        "Bradley Breneisen",
+        "Hannah S. Kim"
+      ],
+      "year": 2021,
+      "venue": null,
+      "abstract": "Tabs have become integral to browsing the Web yet changed little since their introduction nearly 20 years ago. In contrast, internet has gone through dramatic changes, with users increasingly moving from navigating websites exploring information across many sources support online sensemaking. This paper investigates how tabs today are overloaded a diverse set of functionalities and issues face when managing them. We interviewed ten workers asking about tab management strategies walk each open on work computers four times over two weeks. uncovered competing pressures pushing for keeping (ranging interaction emotional costs) versus closing them (such as limited attention resources). then surveyed 103 participants estimate frequencies these at scale. Finally, we developed design implications future browser interfaces that can better pressures.",
+      "cited_by_count": 18,
+      "is_oa": true,
+      "url": "https://openalex.org/W3160391682",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445585",
+      "concepts": [
+        "Sensemaking",
+        "Computer science",
+        "Closing (real estate)",
+        "World Wide Web",
+        "The Internet",
+        "Set (abstract data type)"
+      ],
+      "topic": "Personal Information Management and User Behavior",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.107995",
+      "updated_at": "2026-03-10T02:19:27.709492"
+    },
+    {
+      "id": "https://openalex.org/W2811318996",
+      "doi": "10.3998/mpub.9964786",
+      "title": "Seeing the Past with Computers: Experiments with Augmented Reality and Computer Vision for History",
+      "authors": [
+        "Kevin Kee",
+        "Timothy Compeau"
+      ],
+      "year": 2019,
+      "venue": "OAPEN (The OAPEN Foundation)",
+      "abstract": "Recent developments in computer technology are providing historians with new ways to see—and seek hear, touch, or smell—traces of the past. Place-based augmented reality applications an increasingly common feature at heritage sites and museums, allowing create immersive, multifaceted learning experiences. Now that vision can be directed past, research involving thousands images recreate lost destroyed objects environments, discern patterns vast datasets could not perceived by naked eye. Seeing Past Computers is a collection twelve thought-pieces on current potential uses historical research, teaching, presentation. The experts gathered here reflect upon their experiences working technologies, share ideas for best practices, assess implications of—and imagine future possibilities for—new methods study. Among experimental topics they explore use empowers students challenge presentation material textbooks; application seeing computers unlock unusual cultural knowledge, such as secrets vaudevillian stage magic; hacking facial recognition reveal victims racism century-old Australian archive; rebuilding soundscape Iron Age village aural reality. This volume valuable resource scholars history digital humanities more broadly. It will inspire them apply innovative open paths conducting sharing own research.",
+      "cited_by_count": 17,
+      "is_oa": true,
+      "url": "https://openalex.org/W2811318996",
+      "pdf_url": "http://www.oapen.org/search?identifier=1006141",
+      "concepts": [
+        "Augmented reality",
+        "Presentation (obstetrics)",
+        "MAGIC (telescope)",
+        "Hacker",
+        "Computer science",
+        "Visual arts"
+      ],
+      "topic": "Cultural Heritage Management and Preservation",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.110139",
+      "updated_at": "2026-03-10T02:19:27.711143"
+    },
+    {
+      "id": "https://openalex.org/W4284881404",
+      "doi": "10.1186/s40337-022-00619-5",
+      "title": "Attitudes towards disordered eating in the rock climbing community: a digital ethnography",
+      "authors": [
+        "Mattias Strand"
+      ],
+      "year": 2022,
+      "venue": "Journal of Eating Disorders",
+      "abstract": "This study demonstrates that the topic of disordered eating and negative body image is far from a blind spot or \"dark secret\" within rock climbing community, as sometimes claimed. An undue focus on low weight among climbers must be balanced by proper nutritional advice healthy role models, not least for young who may feel pressured to lose quick but short-sighted way boost performance. Clinicians should aware prevailing 'weight talk' in community attentive their patients.",
+      "cited_by_count": 17,
+      "is_oa": true,
+      "url": "https://openalex.org/W4284881404",
+      "pdf_url": "https://jeatdisord.biomedcentral.com/counter/pdf/10.1186/s40337-022-00619-5",
+      "concepts": [
+        "Climbing",
+        "Ethnography",
+        "Psychology",
+        "Sociology",
+        "Anthropology",
+        "Geology"
+      ],
+      "topic": "Eating Disorders and Behaviors",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.111861",
+      "updated_at": "2026-03-10T02:19:27.712553"
+    },
+    {
+      "id": "https://openalex.org/W4361268770",
+      "doi": "10.1103/physrevphyseducres.19.010121",
+      "title": "Physicality, modeling, and agency in a computational physics class",
+      "authors": [
+        "Anna McLean Phillips",
+        "Ezra Gouvea",
+        "Brian Gravel",
+        "P.-H. Beachemin",
+        "Timothy J. Atherton"
+      ],
+      "year": 2023,
+      "venue": "Physical Review Physics Education Research",
+      "abstract": "Computation is intertwined with essentially all aspects of physics research and invaluable for physicists’ careers. Despite its disciplinary importance, integration computation into education remains a challenge and, moreover, has tended to be constructed narrowly as route solving problems. Here, we broaden Physics Education Research’s conception by constructing metamodel—a model modeling—incorporating insights on computational modeling from the philosophy science prior work. The metamodel formulated in terms practices, things physicists do, how these inform one another. We operationalize this an educational environment that incorporates making, creation shared physical digital artifacts, intended promote students’ agency, creativity, self-expression alongside doing physics. present content analysis student work initial implementations approach illustrate very complex epistemic maneuvers students make they engaged modeling. demonstrate our can used understand practices conclude implications instruction future research.",
+      "cited_by_count": 15,
+      "is_oa": true,
+      "url": "https://openalex.org/W4361268770",
+      "pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevPhysEducRes.19.010121",
+      "concepts": [
+        "Agency (philosophy)",
+        "Operationalization",
+        "Physics education",
+        "Computer science",
+        "Metamodeling",
+        "License"
+      ],
+      "topic": "Teaching and Learning Programming",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.114360",
+      "updated_at": "2026-03-10T02:19:27.713970"
+    },
+    {
+      "id": "https://openalex.org/W3096863613",
+      "doi": "10.30549/opathrom-13-03",
+      "title": "The New Swedish Cyprus Expedition 2019: Excavations at Hala Sultan Tekke (The Söderberg Expedition)",
+      "authors": [
+        "Peter M. Fischer",
+        "Teresa Bürge",
+        "Lærke Recht",
+        "Bebelyn Placiente Robedizo",
+        "Cecilia Eriksson",
+        "Lina Andersson"
+      ],
+      "year": 2020,
+      "venue": "Opuscula Annual of the Swedish Institutes at Athens and Rome",
+      "abstract": "The tenth season of excavations at the Late Bronze Age city Hala Sultan Tekke was carried out in four areas: City Quarter 1 (CQ1), CQ4, Wall (CW1), and Area A (Tomb RR). CQ1 provided additional information on pre-LC IIIA occupation city. Stratum 3 which can be dated to LC IIC (13th century BC) further exposed. For first time even older phases, Strata 4 5, were found. These are tentatively I–II (15th 14th BC). In CQ4 numerous storage areas exposed, belong a large compound. There is also evidence production textiles purple dye. All remains associated most recent securely IIIA, i.e. 12th BC. test trench (CW1) opened up 150 m south-east an area where magnetometer survey indicated possible wall with moat. c. 2.5 m-wide man-made construction consisting small stones intermingled larger blocks found running north–south. Built against interior this structure copper-producing workshop as by much slag, ash, furnace, preliminarily 13th Tomb RR, partly excavated 2018 secured, reopened burials came light. [Abstract abbreviated, see pdf]",
+      "cited_by_count": 15,
+      "is_oa": true,
+      "url": "https://openalex.org/W3096863613",
+      "pdf_url": "http://ecsi.se/wp-content/uploads/2021/05/03_Fischer_Burge.pdf",
+      "concepts": [
+        "Archaeology",
+        "Excavation",
+        "Ancient history",
+        "Stratum",
+        "Geography",
+        "Trench"
+      ],
+      "topic": "Ancient Mediterranean Archaeology and History",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.116556",
+      "updated_at": "2026-03-10T02:19:27.716539"
+    },
+    {
+      "id": "https://openalex.org/W4318065777",
+      "doi": "10.3389/fpos.2023.1047276",
+      "title": "Decolonizing ethnography and Tribes in India: Toward an alternative methodology",
+      "authors": [
+        "Biswaranjan Tripura"
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Political Science",
+      "abstract": "This article unravels the many ways of doing ethnography within area Tribal studies in India. Historically (methodologically), concerning Tribes India were dominated by colonial ethnographers and explorers. Subsequently, post-colonial India, such became field a dominant male caste. From similar perspective dominance, these on viewed them as either backward or from point view that “civilization” could be achieved only through bringing into mainstream. Scholars who followed frames reference failed to reflect their own social positions engaging research projects with subjects. Moreover, some even stated have been inspired Malinowski, whose methodology is considered uncritical, non-sensitive, non-reflexive, especially while relating studies. The people therefore, continued framed caste perspective, without slightest effort treat non-caste societies equals societies. Methodologically, positioning myself against context I draw my frameworks those indigenous methodologies explore possibilities decolonizing recognizing doing. Empirically, base engagement specific group (Tripura Tribe) Tripura, Northeast As an community Indian state Tripura people's epistemology/worldviews differ majoritarian Savarna society. With intent decolonize context, this article, demonstrate innovatively three related methods, namely, conversational method, engaged observation, sitting around fire. argues for any researcher, when Tribes, methods frame employed must congruent being, knowing, Furthermore, it also insists critical reflexivity, responsibility, sensitivity are keys",
+      "cited_by_count": 14,
+      "is_oa": true,
+      "url": "https://openalex.org/W4318065777",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpos.2023.1047276/pdf",
+      "concepts": [
+        "Caste",
+        "Indigenous",
+        "Tribe",
+        "Ethnography",
+        "Sociology",
+        "Colonialism"
+      ],
+      "topic": "South Asian Studies and Conflicts",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.118992",
+      "updated_at": "2026-03-10T02:19:27.718501"
+    },
+    {
+      "id": "https://openalex.org/W4385672513",
+      "doi": "10.26818/9780814215524",
+      "title": "City Scripts: Narratives of Postindustrial Urban Futures",
+      "authors": [
+        "Stephanie Leigh Batiste",
+        "Michael Batty",
+        "Alex Blue",
+        "Diane Van Buren",
+        "Stefan Dierkes",
+        "Oliver Dörmann"
+      ],
+      "year": 2023,
+      "venue": "The Ohio State University Press eBooks",
+      "abstract": "Introduction: City scripts in urban literary and cultural studies / Maria Sulimma, Barbara Buchenau, Jens Martin Gurr -- Black Lives Matter graffiti creative forms of dissent : two sites counterscripting Denver, Colorado Florian Deckers Renee M. Moreno Walking down Woodward (re)telling a city's stories through figures Juliane Borosch Buchenau Tiny architecture narrative scripting minimal living spaces Katharina Wood Randi Gunzenhäuser Narrative path dependencies sustainable inclusive planning Portland's Albina neighborhoods Elisabeth Haefs Scripting the city, narrating self contemporary Rust Belt memoirs poetry prose Chris Katzenberg Kornelia Freitag Whose Detroit? fictions land ownership property postindustrial America Julia Sattler To bodega or café? microscripts gentrification fiction Sulimma Redemptive city novel Lieven Ameel Patterned pasts scripted futures Cleveland's waterfronts hopes changing Johannes Krickl Michael Wala The democracy critique concepts creativity discourse Hanna Rodewald Walter Grünzweig Forms, frames, possible Eckstein James A. Throgmorton.",
+      "cited_by_count": 14,
+      "is_oa": true,
+      "url": "https://openalex.org/W4385672513",
+      "pdf_url": "https://kb.osu.edu/bitstream/1811/103513/1/BUCHENAU-GURR-SULIMMA_7-7_9780814283103.pdf",
+      "concepts": [
+        "Post-industrial society",
+        "Futures contract",
+        "Scripting language",
+        "Narrative",
+        "Sociology",
+        "Art"
+      ],
+      "topic": "Public Spaces through Art",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.120687",
+      "updated_at": "2026-03-10T02:19:27.720623"
+    },
+    {
+      "id": "https://openalex.org/W4213436163",
+      "doi": "10.3389/fpsyg.2022.838053",
+      "title": "It Can Be a “Very Fine Line”: Professional Footballers’ Perceptions of the Conceptual Divide Between Bullying and Banter",
+      "authors": [
+        "James A. Newman",
+        "Victoria E. Warburton",
+        "Kate Russell"
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Psychology",
+      "abstract": "This study explores professional footballers' perceptions of where banter crosses the conceptual line into bullying. The study's focus is importance, given impact that abusive behaviors have been found to on welfare and safeguarding English footballers. A phenomenological approach was adopted, which focused essence participants' experiences. Guided by Interpretative Phenomenological Analysis (IPA), individual semi-structured interviews (<i>M</i> <sub>Duration</sub> = 44.10 min, SD 10.81) were conducted with 18 male footballers <sub>age</sub> 19.83 years, 2.96) from three Premier League Championship football clubs. findings this revealed several key superordinate themes in relation dividing between bullying banter. These included \"perception,\" \"intentionality,\" \"detecting line,\" \"having a bit banter.\" demonstrate how are nuanced differences among players culture context. Specifically, it context can legitimize forms humor blurring lines banter, challenging typically positive view concept environment. From an applied perspective, these highlight need for coaches, players, clubs more broadly address cultural expectations around their environment, while educating individuals own",
+      "cited_by_count": 13,
+      "is_oa": true,
+      "url": "https://openalex.org/W4213436163",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.838053/pdf",
+      "concepts": [
+        "Football",
+        "Psychology",
+        "Championship",
+        "Context (archaeology)",
+        "Perception",
+        "Social psychology"
+      ],
+      "topic": "Sports, Gender, and Society",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.122589",
+      "updated_at": "2026-03-10T02:19:27.722725"
+    },
+    {
+      "id": "https://openalex.org/W3039272465",
+      "doi": "10.3390/s20133807",
+      "title": "Age-Related Differences in Fixation Pattern on a Companion Robot",
+      "authors": [
+        "Young Hoon Oh",
+        "Da Young Ju"
+      ],
+      "year": 2020,
+      "venue": "Sensors",
+      "abstract": "Recent studies have addressed the various benefits of companion robots and expanded research scope to their design. However, viewpoints older adults not been deeply investigated. Therefore, this study aimed examine distinctive by comparing them with those younger adults. Thirty-one thirty-one participated in an eye-tracking experiment investigate impressions a bear-like robot mockup. They also completed interviews surveys help us understand on The gaze behaviors two groups were significantly different. Older focused more robot's face paid little attention rest body. In contrast, gazed at body parts viewed detail than Furthermore, rated physical attractiveness social likeability higher specific behavior was linked considerable negative feedback Based these empirical findings, we recommend that be considered when designing robots.",
+      "cited_by_count": 13,
+      "is_oa": true,
+      "url": "https://openalex.org/W3039272465",
+      "pdf_url": "https://www.mdpi.com/1424-8220/20/13/3807/pdf?version=1594193845",
+      "concepts": [
+        "Viewpoints",
+        "Gaze",
+        "Robot",
+        "Psychology",
+        "Attractiveness",
+        "Eye tracking"
+      ],
+      "topic": "Social Robot Interaction and HRI",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.124389",
+      "updated_at": "2026-03-10T02:19:27.724895"
+    },
+    {
+      "id": "https://openalex.org/W3039619749",
+      "doi": "10.3390/app10134613",
+      "title": "Italian-Style Opera Houses: A Historical Review",
+      "authors": [
+        "Dario D’Orazio"
+      ],
+      "year": 2020,
+      "venue": "Applied Sciences",
+      "abstract": "Attending an opera involves a multi-sensory evaluation (acoustical, visual, and more), cultural background other emotional parameters. The present work aims to investigate the historical development of Italian-style houses, from 16th century until today. Called “Italian” due their origin, they developed thanks mutual influence genre building characteristics. Furthermore, acoustics houses is now considered as intangible heritage, so it should be known preserved. paper addressed state-of-the-art literature—most which was proposed in Italian—which can driven easily by sharing contemporary knowledge.",
+      "cited_by_count": 13,
+      "is_oa": true,
+      "url": "https://openalex.org/W3039619749",
+      "pdf_url": "https://www.mdpi.com/2076-3417/10/13/4613/pdf?version=1594195596",
+      "concepts": [
+        "Opera",
+        "Intangible cultural heritage",
+        "Style (visual arts)",
+        "Cultural heritage",
+        "Italian opera",
+        "State (computer science)"
+      ],
+      "topic": "Hearing Loss and Rehabilitation",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.126920",
+      "updated_at": "2026-03-10T02:19:27.727060"
+    },
+    {
+      "id": "https://openalex.org/W4384558932",
+      "doi": "10.1057/s41599-023-01878-6",
+      "title": "Zooming out the microscope on cumulative cultural evolution: ‘Trajectory B’ from animal to human culture",
+      "authors": [
+        "Claes Andersson",
+        "Claudio Tennie"
+      ],
+      "year": 2023,
+      "venue": "Humanities and Social Sciences Communications",
+      "abstract": "Abstract It is widely believed that human culture originated in the appearance of Oldowan stone-tool production (circa 2.9 Mya) and a primitive but effective ability to copy detailed know-how. Cumulative cultural evolution then have led modern humans via self-reinforcing gene-culture co-evolution. This outline evolutionary trajectory has come be seen as all self-evident, dilemmas appeared it been explored increasing detail. Can we attribute even minimally know-how copying capability hominins? Do tools really demand copying? Is there any other evidence was present? We here argue this account, which refer “Trajectory A”, may red herring, formulate an alternative B” resolves these dilemmas. Trajectory B invokes overlooked group-level channel inheritance (the Social Protocell) whereby networks traits can faithfully inherited potentially undergo cumulative evolution, also when underpinning are apelike not being transmitted (Latent Solutions). Since most preconditions present modern-day Pan , its roots considerably before toolmaking. The build-up non-cumulative argued produced conditions both called for afforded gradual know-how, later than Oldowan.",
+      "cited_by_count": 12,
+      "is_oa": true,
+      "url": "https://openalex.org/W4384558932",
+      "pdf_url": "https://www.nature.com/articles/s41599-023-01878-6.pdf",
+      "concepts": [
+        "Copying",
+        "Human evolution",
+        "Trajectory",
+        "Sociocultural evolution",
+        "Evolutionary biology",
+        "Aesthetics"
+      ],
+      "topic": "Language and cultural evolution",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.128756",
+      "updated_at": "2026-03-10T02:19:27.729015"
+    },
+    {
+      "id": "https://openalex.org/W3036864939",
+      "doi": "10.5194/gh-75-139-2020",
+      "title": "No people, no problem – narrativity, conflict, and justice in debates on deep-seabed mining",
+      "authors": [
+        "Oscar Schmidt",
+        "Manuel Rivera"
+      ],
+      "year": 2020,
+      "venue": "Geographica Helvetica",
+      "abstract": "Abstract. While the idea of extracting deep-seabed resources dates back to as early 1960s, it remained pure fiction for decades due limited technical possibilities and prohibitive costs. In recent years, against backdrop changing a persistently high demand raw materials, mining (DSM) has returned international political agenda. numerous fact-finding missions engage in mapping ocean's public–private partnerships prepare make an active engagement seabed, International Seabed Authority (ISA) is entrusted with development legal framework possible future accordance requirements defined under UN Convention on Law Sea (UNCLOS). The preparations DSM are accompanied ultimately shaped by discourse opportunities risks deep seabed. paper at hand traces dominant discursive positions their narrative structures way explaining relative success or failure proponents who speak favor seabed critics warn its striking environmental impacts inestimable risks. We proceed from observation that historic sea beyond national jurisdiction was rooted what we call “narratives promise” regarding global procedural distributive justice, health, peaceful cooperation. Our findings show how today's debates theme marine which dominated discourse, close “nonstory”. commonly narrated merely technocratic apolitical process appears be free social conflict. conclude arguing arrive more successful critical narratives will require pronounced depictions negative consequences particular humans, exposing “politics” policy making developing competitive stories alternatives DSM.",
+      "cited_by_count": 12,
+      "is_oa": true,
+      "url": "https://openalex.org/W3036864939",
+      "pdf_url": "https://gh.copernicus.org/articles/75/139/2020/gh-75-139-2020.pdf",
+      "concepts": [
+        "Seabed",
+        "Narrative",
+        "Political science",
+        "United Nations Convention on the Law of the Sea",
+        "Economic Justice",
+        "Jurisdiction"
+      ],
+      "topic": "Arctic and Russian Policy Studies",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.130778",
+      "updated_at": "2026-03-10T02:19:27.730906"
+    },
+    {
+      "id": "https://openalex.org/W4200065134",
+      "doi": "10.1515/9783110562064",
+      "title": "Active Materials",
+      "authors": [
+        "Fratzl, Peter",
+        "Friedman, Michael",
+        "Krauthausen, Karin",
+        "Schäffner, Wolfgang"
+      ],
+      "year": 2021,
+      "venue": null,
+      "abstract": "What are active materials? This book aims to introduce and redefine conceptions of matter by considering materials as entities that ‘sense’ respond their environment. By examining the modeling of, experiments on, construction these materials, developing a theory structure, collective activity, functionality, this volume identifies develops novel scientific approach materials. Moreover, essays on history philosophy metallurgy, chemistry, biology, science provide various approaches with historical cultural context. The interviews experts from natural sciences included in develop new understandings ‘active matter’ relation range research objects perspective different disciplines, including physics, science. These insights complemented contributions activity humanities design field. Discusses mechanisms conceptualizations Redefines through sciences. Contextualizes, historizes, reflects notions matter/materials humanities. A highly interdisciplinary cutting-edge topic, both",
+      "cited_by_count": 11,
+      "is_oa": true,
+      "url": "https://openalex.org/W4200065134",
+      "pdf_url": "https://www.degruyter.com/document/doi/10.1515/9783110562064/pdf",
+      "concepts": [
+        "Materials science"
+      ],
+      "topic": "Diatoms and Algae Research",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.132310",
+      "updated_at": "2026-03-10T02:19:27.733693"
+    },
+    {
+      "id": "https://openalex.org/W4395465999",
+      "doi": "10.1167/jov.24.4.23",
+      "title": "Toward a theory of perspective perception in pictures",
+      "authors": [
+        "Aaron Hertzmann"
+      ],
+      "year": 2024,
+      "venue": "Journal of Vision",
+      "abstract": "This paper reviews projection models and their perception in realistic pictures, proposes hypotheses for three-dimensional (3D) shape space pictures. In these hypotheses, eye fixations, foveal vision play a central role. Many past theories experimental studies focus solely on linear perspective. Yet, fail to explain many important perceptual phenomena, including the effectiveness of nonlinear projections. Indeed, few classical paintings strictly obey perspective, nor do best distortion-avoidance techniques wide-angle computational photography. The here employ two-stage model 3D human vision. When viewing picture, first stage perceives current gaze. Each fixation has its own perspective projection, but, owing nature peripheral vision, information is obtained primarily small region picture around fixation. As viewer moves eyes, second continually integrates some per-gaze into an overall interpretation picture. need not be geometrically stable or consistent over time. It argued that this framework could disparate pictorial different styles throughout art history photography, while being with constraints open questions suggests new explore hypotheses.",
+      "cited_by_count": 10,
+      "is_oa": true,
+      "url": "https://openalex.org/W4395465999",
+      "pdf_url": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938670/i1534-7362-24-4-23_1713961163.65834.pdf",
+      "concepts": [
+        "Perspective (graphical)",
+        "Perception",
+        "Psychology",
+        "Cognitive psychology",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "topic": "Visual perception and processing mechanisms",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.134305",
+      "updated_at": "2026-03-10T02:19:27.736123"
+    },
+    {
+      "id": "https://openalex.org/W2967036786",
+      "doi": "10.1093/pm/pnz369",
+      "title": "There’s Nothing Broken. You’ve Had a Whiplash, That’s It: A Qualitative Study of Comorbid Posttraumatic Stress Disorder and Whiplash Associated Disorders",
+      "authors": [
+        "Sophie Lykkegaard Ravn",
+        "Nanna Bjerg Eskildsen",
+        "Anna Thit Johnsen",
+        "Michele Sterling",
+        "Tonny Elmose Andersen"
+      ],
+      "year": 2019,
+      "venue": "Pain Medicine",
+      "abstract": "These findings underlined the great complexity and variability of comorbidity traumatic event, but also emphasized how experiences psyche soma seem closely connected in these patients. The results provide support for importance thorough assessment by multidisciplinary teams, minimizing distress post-injury, a critical approach to idea mutual maintenance between pain PTSD.",
+      "cited_by_count": 10,
+      "is_oa": true,
+      "url": "https://openalex.org/W2967036786",
+      "pdf_url": "https://academic.oup.com/painmedicine/article-pdf/21/8/1676/33655024/pnz369.pdf",
+      "concepts": [
+        "Whiplash",
+        "Comorbidity",
+        "Distress",
+        "Traumatic stress",
+        "Clinical psychology",
+        "Thematic analysis"
+      ],
+      "topic": "Posttraumatic Stress Disorder Research",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:44:07.136482",
+      "updated_at": "2026-03-10T02:19:27.737809"
+    }
+  ]
+}
