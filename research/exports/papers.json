@@ -1,7 +1,7 @@
 {
   "repo": "wish",
-  "exported_at": "2026-03-10T02:19:27.740032",
-  "count": 25,
+  "exported_at": "2026-03-14T09:21:56.148292",
+  "count": 32,
   "papers": [
     {
       "id": "https://openalex.org/W4288359814",
@@ -34,7 +34,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.087751",
-      "updated_at": "2026-03-10T02:19:27.690102"
+      "updated_at": "2026-03-14T09:21:56.098407"
     },
     {
       "id": "https://openalex.org/W3103866493",
@@ -64,7 +64,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.089641",
-      "updated_at": "2026-03-10T02:19:27.693520"
+      "updated_at": "2026-03-14T09:21:56.100708"
     },
     {
       "id": "https://openalex.org/W4283821363",
@@ -97,7 +97,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.091299",
-      "updated_at": "2026-03-10T02:19:27.695278"
+      "updated_at": "2026-03-14T09:21:56.102545"
     },
     {
       "id": "https://openalex.org/W1602369286",
@@ -109,7 +109,7 @@
       "year": 2021,
       "venue": "E-Journal of Severe Storms Meteorology",
       "abstract": "The scientific documentation and investigation of tropical cyclone (TC) tornadoes has spanned portions ten decades, but been missing a documentary overview topical knowledge accumulated to any given point in that time span. This review article summarizes the evolution TC tornado-related literature from perspectives crucial historic tornadoes, climatology, distribution patterns, applied research into their environments, remote environmental observations, forecasting practices, numerical simulations at various scales. Discussion future tornado prediction includes several testable hypotheses, along with potentially beneficial tools soon be available operational forecasters.",
-      "cited_by_count": 73,
+      "cited_by_count": 74,
       "is_oa": true,
       "url": "https://openalex.org/W1602369286",
       "pdf_url": "https://ejssm.com/ojs/index.php/site/article/download/42/41",
@@ -125,7 +125,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.093171",
-      "updated_at": "2026-03-10T02:19:27.697267"
+      "updated_at": "2026-03-14T09:21:56.104721"
     },
     {
       "id": "https://openalex.org/W3047622531",
@@ -155,7 +155,39 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.095012",
-      "updated_at": "2026-03-10T02:19:27.699696"
+      "updated_at": "2026-03-14T09:21:56.106427"
+    },
+    {
+      "id": "https://openalex.org/W4385714563",
+      "doi": "10.1145/3586183.3606719",
+      "title": "Spellburst: A Node-based Interface for Exploratory Creative Coding with Natural Language Prompts",
+      "authors": [
+        "Tyler Angert",
+        "Miroslav Suzara",
+        "Jenny Yi-Chen Han",
+        "Christopher Pondoc",
+        "Hariharan Subramonyam"
+      ],
+      "year": 2023,
+      "venue": null,
+      "abstract": "Creative coding tasks are often exploratory in nature. When producing digital artwork, artists usually begin with a high-level semantic construct such as “stained glass filter” and programmatically implement it by varying code parameters shape, color, lines, opacity to produce visually appealing results. Based on interviews artists, can be effortful translate constructs program syntax, current programming tools don’t lend well rapid creative exploration. To address these challenges, we introduce Spellburst, large language model (LLM) powered creative-coding environment. Spellburst provides (1) node-based interface that allows create generative art explore variations through branching merging operations, (2) expressive prompt-based interactions engage programming, (3) dynamic prompt-driven interfaces direct editing seamlessly switch between syntactic Our evaluation demonstrates Spellburst’s potential enhance practices inform the design of computational creativity bridge spaces.",
+      "cited_by_count": 50,
+      "is_oa": true,
+      "url": "https://openalex.org/W4385714563",
+      "pdf_url": "https://arxiv.org/pdf/2308.03921",
+      "concepts": [
+        "Computer science",
+        "Coding (social sciences)",
+        "Syntax",
+        "Interface (matter)",
+        "Generative grammar",
+        "Programming language"
+      ],
+      "topic": "Artificial Intelligence in Games",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.108293",
+      "updated_at": "2026-03-14T09:21:56.108293"
     },
     {
       "id": "https://openalex.org/W4281786305",
@@ -169,7 +201,7 @@
       ],
       "year": 2022,
       "venue": "Review of Philosophy and Psychology",
-      "abstract": null,
+      "abstract": "Abstract Predictive processing has begun to offer new insights into the nature of conscious experience—but link is not straightforward. A wide variety systems may be described as predictive machines, raising question: what differentiates those for which it makes sense talk about experience? One possible answer lies in involvement a higher-order form prediction error, termed expected free energy. In this paper we explore under conditions minimization quantity might underpin experience. Our suggestion that minimisation Expected Free Energy itself sufficient occurrence Instead, relevant only insofar helps deliver Ward et al. (2011) have previously our own poise over an action space . Perceptual experience, will argue, nothing other than process puts current actions contact with goals and intentions, enabling some creatures know options their situation available. This proposal fits recent work suggesting deep between contents computed at ‘intermediate’ level processing, apt controlling action.",
       "cited_by_count": 45,
       "is_oa": true,
       "url": "https://openalex.org/W4281786305",
@@ -186,7 +218,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.097772",
-      "updated_at": "2026-03-10T02:19:27.701776"
+      "updated_at": "2026-03-14T09:21:56.110090"
     },
     {
       "id": "https://openalex.org/W2981180296",
@@ -215,7 +247,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.099845",
-      "updated_at": "2026-03-10T02:19:27.703484"
+      "updated_at": "2026-03-14T09:21:56.111860"
     },
     {
       "id": "https://openalex.org/W2950045700",
@@ -243,7 +275,67 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.102107",
-      "updated_at": "2026-03-10T02:19:27.704847"
+      "updated_at": "2026-03-14T09:21:56.114041"
+    },
+    {
+      "id": "https://openalex.org/W4405010262",
+      "doi": "10.1007/s11930-024-00397-y",
+      "title": "The Impact of Artificial Intelligence on Human Sexuality: A Five-Year Literature Review 2020–2024",
+      "authors": [
+        "Nicola Döring",
+        "Thuy Dung Le",
+        "Laura M. Vowels",
+        "Matthew J. Vowels",
+        "Tiffany L. Marcantonio"
+      ],
+      "year": 2024,
+      "venue": "Current Sexual Health Reports",
+      "abstract": null,
+      "cited_by_count": 27,
+      "is_oa": true,
+      "url": "https://openalex.org/W4405010262",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11930-024-00397-y.pdf",
+      "concepts": [
+        "Pornography",
+        "Reproductive health",
+        "Psychology",
+        "Human sexuality",
+        "Chatbot",
+        "Context (archaeology)"
+      ],
+      "topic": "Sexuality, Behavior, and Technology",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.116578",
+      "updated_at": "2026-03-14T09:21:56.116578"
+    },
+    {
+      "id": "https://openalex.org/W4360613710",
+      "doi": "10.1111/jems.12513",
+      "title": "Inferno: A guide to field experiments in online display advertising",
+      "authors": [
+        "Garrett Johnson"
+      ],
+      "year": 2023,
+      "venue": "Journal of Economics & Management Strategy",
+      "abstract": "Abstract Online display advertising is a hostile medium for field experiments. Display‐ad effects are tiny and necessitate large‐scale The experimenter has limited control because ad exposure jointly determined by advertisers, users, algorithms, market competition. As such, online ads provide useful lessons experimenters at the frontier of digital research more generally. experiments place renewed focus on old topics like statistical power compliance as well newer issues identity fragmentation, experimental spillovers, incrementality optimization. In this guide, I review these challenges, best practices, new developments.",
+      "cited_by_count": 22,
+      "is_oa": true,
+      "url": "https://openalex.org/W4360613710",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jems.12513",
+      "concepts": [
+        "Display advertising",
+        "Frontier",
+        "Advertising",
+        "Computer science",
+        "Fragmentation (computing)",
+        "Field (mathematics)"
+      ],
+      "topic": "Advanced Causal Inference Techniques",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.118986",
+      "updated_at": "2026-03-14T09:21:56.118986"
     },
     {
       "id": "https://openalex.org/W3158845685",
@@ -254,7 +346,7 @@
       ],
       "year": 2021,
       "venue": "Experimental and Applied Acarology",
-      "abstract": null,
+      "abstract": "A model based upon mechanics is used in a re-analysis of historical acarine morphological work augmented by an extra seven zoophagous mesostigmatid species. This review shows that predatory mesostigmatids do have cheliceral designs with clear rational purposes. Almost invariably within overall body size class, the switch style from worm-like prey feeding ('crushing/mashing' kill) functional group to micro-arthropod ('active cutting/slicing/slashing' matched by: increased reach, bigger chelal gape, larger morphologically estimated crunch force, and drop adductive lever arm velocity ratio chela. Small matters. Several uropodines (Eviphis ostrinus, omnivore Trachytes aegrota, Urodiaspis tecta and, Uropoda orbicularis) more elongate chelicerae (greater reach) than their gape would suggest, even allowing for allometry across mesostigmatids. They may be: plesiosaur-like high-speed strikers prey, scavenging carrion feeders (like long-necked vultures), probing/burrowing crevice cryptic nematodes, or small morsel/fragmentary food feeders. Some uropodoids chelae which probably like construction-site mechanical excavator-digger its bucket. Possible hoeing/bulldozing, spore-cracking tiny sabre-tooth cat-like striking actions are discussed others. Subtle changes lead be predator-scavengers (mesocarnivores) predator-fungivores (hypocarnivores). (e.g., feeder Alliphis siculus show similar design astigmatids cryptostigmatids indicating possible facultative saprophagy. Scale matters-obligate (hypercarnivory) start > 150 μm reach 350 (i.e., about 500-650 size). Commonality trophic these species solifugids indicated. Veigaia low other strengthening specialisms, appear specially adapted concerted way predating active soft fast moving springtails (Collembola). cerva markedly proportionately",
       "cited_by_count": 18,
       "is_oa": true,
       "url": "https://openalex.org/W3158845685",
@@ -271,7 +363,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.104456",
-      "updated_at": "2026-03-10T02:19:27.706268"
+      "updated_at": "2026-03-14T09:21:56.120760"
     },
     {
       "id": "https://openalex.org/W4214860063",
@@ -300,7 +392,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.106413",
-      "updated_at": "2026-03-10T02:19:27.708076"
+      "updated_at": "2026-03-14T09:21:56.122756"
     },
     {
       "id": "https://openalex.org/W3160391682",
@@ -333,7 +425,35 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.107995",
-      "updated_at": "2026-03-10T02:19:27.709492"
+      "updated_at": "2026-03-14T09:21:56.126339"
+    },
+    {
+      "id": "https://openalex.org/W2952807570",
+      "doi": null,
+      "title": "Reorganizing Biomedical Research: Biobanks as Conditions of Possibility for Personalized Medicine",
+      "authors": [
+        "Heta Tarkkala"
+      ],
+      "year": 2019,
+      "venue": "Työväentutkimus Vuosikirja",
+      "abstract": "In recent decades biomedical samples and data have been organized into large depositories such as biobanks. These biobanks also founded in Finland to allow for increasingly large-scale, international, data-intensive research. Simultaneously expectations of personalized medicine increased – the future individuals instead averages will be treated, genomic may utilized clinics or disease prevention.\\n\\nThis study rooted science technology studies, linking discussions role imaginaries examines conditions possibility become reality: that is, how are expected make possible. The rearranging research through is investigated against backdrop a sociotechnical imaginary: vision desirable future, which both built on, continuously requires, technology, therefore societal efforts, its fulfillment (Jasanoff Kim, 2015).\\n\\nConsequently, this asks: What do related tell us about knowledge production supposed participate, play it? To answer question, biobanking studied three different lenses. analytical sections unpack, first, claims high quality they store; second, ideas population(s) seen stored biobanks; third, their link translational medicine. Thus, it explored said contribute contemporary takes place highly\\nregulated settings.\\n\\nThe main argument very idea being reshaped operations, conventions, regulatory frameworks, new linked imaginary require action taken. layers stakeholders, regulations, developments, projects condition constrain hence production, have, continue an effect on what\\nbiobanks considered understood be, kind scientific practices could foster. chapters illustrate multiplicity tendencies linkages attendant begin reorganize",
+      "cited_by_count": 18,
+      "is_oa": true,
+      "url": "https://openalex.org/W2952807570",
+      "pdf_url": "http://hdl.handle.net/10138/300602",
+      "concepts": [
+        "Biobank",
+        "Personalized medicine",
+        "Precision medicine",
+        "Medicine",
+        "Internet privacy",
+        "Engineering ethics"
+      ],
+      "topic": "Ethics in Clinical Research",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.124394",
+      "updated_at": "2026-03-14T09:21:56.124394"
     },
     {
       "id": "https://openalex.org/W2811318996",
@@ -362,7 +482,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.110139",
-      "updated_at": "2026-03-10T02:19:27.711143"
+      "updated_at": "2026-03-14T09:21:56.129389"
     },
     {
       "id": "https://openalex.org/W4284881404",
@@ -390,7 +510,40 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.111861",
-      "updated_at": "2026-03-10T02:19:27.712553"
+      "updated_at": "2026-03-14T09:21:56.130951"
+    },
+    {
+      "id": "https://openalex.org/W4402672003",
+      "doi": "10.18653/v1/2024.acl-long.674",
+      "title": "RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors",
+      "authors": [
+        "Liam Dugan",
+        "Alyssa Hwang",
+        "Filip Trhlík",
+        "Andrew Zhu",
+        "Josh Magnus Ludan",
+        "Hainiu Xu"
+      ],
+      "year": 2024,
+      "venue": null,
+      "abstract": "Liam Dugan, Alyssa Hwang, Filip Trhlík, Andrew Zhu, Josh Magnus Ludan, Hainiu Xu, Daphne Ippolito, Chris Callison-Burch. Proceedings of the 62nd Annual Meeting Association for Computational Linguistics (Volume 1: Long Papers). 2024.",
+      "cited_by_count": 17,
+      "is_oa": true,
+      "url": "https://openalex.org/W4402672003",
+      "pdf_url": "https://aclanthology.org/2024.acl-long.674.pdf",
+      "concepts": [
+        "RAID",
+        "Computer science",
+        "Benchmark (surveying)",
+        "Detector",
+        "Operating system",
+        "Parallel computing"
+      ],
+      "topic": "Topic Modeling",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.127899",
+      "updated_at": "2026-03-14T09:21:56.127899"
     },
     {
       "id": "https://openalex.org/W4361268770",
@@ -422,7 +575,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.114360",
-      "updated_at": "2026-03-10T02:19:27.713970"
+      "updated_at": "2026-03-14T09:21:56.133485"
     },
     {
       "id": "https://openalex.org/W3096863613",
@@ -455,7 +608,37 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.116556",
-      "updated_at": "2026-03-10T02:19:27.716539"
+      "updated_at": "2026-03-14T09:21:56.135156"
+    },
+    {
+      "id": "https://openalex.org/W3141934464",
+      "doi": "10.1080/1612197x.2021.1907768",
+      "title": "Muscular collision chess: a qualitative exploration of the role and development of cognition, understanding and knowledge in elite-level decision making",
+      "authors": [
+        "Rosie Collins",
+        "Dave Collins",
+        "Howie J. Carson"
+      ],
+      "year": 2021,
+      "venue": "International Journal of Sport and Exercise Psychology",
+      "abstract": "Decision making (DM) is a crucial part of team invasion games. The role context and how this drives both the initial DM primes in-action planning execution, termed contextual priors, has been investigated. Findings suggest significant for cognition, which appears to run contrary some suggestions made by an ecological dynamics approach. Wishing clarify situation coaches psychologists, research explores experience nine top-tier key decision makers in rugby union, using interview Results showed wide range context-based information considered players during process. Furthermore, acted prime subsequent attention thinking. Finally, sought understand if, therefore how, could be taught, developed primed coaches. Our data are supportive more cognitively focused approach developing although our do not dismiss direct perception optimising performance. Implications practice discussed.",
+      "cited_by_count": 15,
+      "is_oa": true,
+      "url": "https://openalex.org/W3141934464",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/1612197X.2021.1907768?needAccess=true",
+      "concepts": [
+        "Psychology",
+        "Action (physics)",
+        "Cognition",
+        "Context (archaeology)",
+        "Perception",
+        "Process (computing)"
+      ],
+      "topic": "Sport Psychology and Performance",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.137072",
+      "updated_at": "2026-03-14T09:21:56.137072"
     },
     {
       "id": "https://openalex.org/W4318065777",
@@ -483,7 +666,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.118992",
-      "updated_at": "2026-03-10T02:19:27.718501"
+      "updated_at": "2026-03-14T09:21:56.140763"
     },
     {
       "id": "https://openalex.org/W4385672513",
@@ -499,7 +682,7 @@
       ],
       "year": 2023,
       "venue": "The Ohio State University Press eBooks",
-      "abstract": "Introduction: City scripts in urban literary and cultural studies / Maria Sulimma, Barbara Buchenau, Jens Martin Gurr -- Black Lives Matter graffiti creative forms of dissent : two sites counterscripting Denver, Colorado Florian Deckers Renee M. Moreno Walking down Woodward (re)telling a city's stories through figures Juliane Borosch Buchenau Tiny architecture narrative scripting minimal living spaces Katharina Wood Randi Gunzenhäuser Narrative path dependencies sustainable inclusive planning Portland's Albina neighborhoods Elisabeth Haefs Scripting the city, narrating self contemporary Rust Belt memoirs poetry prose Chris Katzenberg Kornelia Freitag Whose Detroit? fictions land ownership property postindustrial America Julia Sattler To bodega or café? microscripts gentrification fiction Sulimma Redemptive city novel Lieven Ameel Patterned pasts scripted futures Cleveland's waterfronts hopes changing Johannes Krickl Michael Wala The democracy critique concepts creativity discourse Hanna Rodewald Walter Grünzweig Forms, frames, possible Eckstein James A. Throgmorton.",
+      "abstract": "Three anonymous reviewers of an unsuccessful research initiative on historical North American city scripts directed by Barbara Buchenau provided useful feedback.This",
       "cited_by_count": 14,
       "is_oa": true,
       "url": "https://openalex.org/W4385672513",
@@ -516,7 +699,37 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.120687",
-      "updated_at": "2026-03-10T02:19:27.720623"
+      "updated_at": "2026-03-14T09:21:56.143010"
+    },
+    {
+      "id": "https://openalex.org/W4387646928",
+      "doi": "10.1108/ejm-04-2022-0280",
+      "title": "Marketplace accessibility: a service-provider perspective",
+      "authors": [
+        "Katharina C. Husemann",
+        "Anica Zeyen",
+        "Leighanne Higgins"
+      ],
+      "year": 2023,
+      "venue": "European Journal of Marketing",
+      "abstract": "Purpose This study aims to explore the strategies that service providers use facilitate marketplace accessibility, and identify key challenges in process. The authors do so develop a roadmap towards improved accessibility disability inclusion marketplace. Design/methodology/approach conducted eight semi-structured interviews with (curators, visitor coordinators access managers) at museums who run programmes for customers visual impairment (VI), along an embodied duo-ethnography of those programmes. Findings Service foster autonomous, social access. Resource constraints, safety concerns exposed differences between compromise To overcome these challenges, engage three inclusionary – informing, extending sensitizing. Research limitations/implications provider- VI-focus present limitations. Future research should consider poly-vocal approach includes experiences numerous stakeholders holistically advance accessibility; apply findings upon different disabilities other contexts. Practical implications offers policymakers on: which types can be created; what may encountered; how manage challenges; and, thus, beyond regulations. Originality/value contributes provider perspective on goes removing “disabling” barriers creating opportunities co-creation; fosters inclusiveness while considering inherent process; illustration posthumanism’s empirical value addressing issues",
+      "cited_by_count": 14,
+      "is_oa": true,
+      "url": "https://openalex.org/W4387646928",
+      "pdf_url": null,
+      "concepts": [
+        "Service provider",
+        "Business",
+        "Service (business)",
+        "Service design",
+        "Marketing",
+        "Service delivery framework"
+      ],
+      "topic": "Disability Rights and Representation",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:56.139001",
+      "updated_at": "2026-03-14T09:21:56.139001"
     },
     {
       "id": "https://openalex.org/W4213436163",
@@ -546,7 +759,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:44:07.122589",
-      "updated_at": "2026-03-10T02:19:27.722725"
+      "updated_at": "2026-03-14T09:21:56.145267"
     },
     {
       "id": "https://openalex.org/W3039272465",
